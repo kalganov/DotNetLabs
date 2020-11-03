@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labs", "Labs\Labs.csproj", "{4EBE5CD1-6441-4DD3-85C9-E80EFDD28E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{76A688B5-61A5-4A18-9611-1FB318289EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBE5CD1-6441-4DD3-85C9-E80EFDD28E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBE5CD1-6441-4DD3-85C9-E80EFDD28E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBE5CD1-6441-4DD3-85C9-E80EFDD28E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBE5CD1-6441-4DD3-85C9-E80EFDD28E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A688B5-61A5-4A18-9611-1FB318289EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A688B5-61A5-4A18-9611-1FB318289EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A688B5-61A5-4A18-9611-1FB318289EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A688B5-61A5-4A18-9611-1FB318289EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
